@@ -1,3 +1,7 @@
-ガラスの幽霊
 /setblock ~ ~ ~ spawner{SpawnCount:3,SpawnRange:10,Delay:300,MinSpawnDelay:200,MaxSpawnDelay:300,MaxNearbyEntities:5,RequiredPlayerRange:20,SpawnData:{id:"minecraft:villager",Silent:1b,Health:0f,Passengers:[{id:"minecraft:creeper",CustomNameVisible:0b,Health:5f,powered:1b,ExplosionRadius:0b,ActiveEffects:[{Id:14b,Amplifier:0b,Duration:2000000,ShowParticles:0b}],Attributes:[{Name:generic.follow_range,Base:5}]}],Attributes:[{Name:generic.max_health,Base:0}]}} replace
+ガラスの幽霊
 フォローラン時になってるのでマックスヘルスに変える
+
+/setblock ~ ~ ~ spawner{SpawnCount:2,SpawnRange:7,Delay:200,MinSpawnDelay:100,MaxSpawnDelay:200,MaxNearbyEntities:4,RequiredPlayerRange:15,SpawnData:{id:"minecraft:villager",Silent:1b,Health:0f,Passengers:[{id:"minecraft:bat",Silent:1b,CustomNameVisible:0b,Health:50f,Passengers:[{id:"minecraft:blaze",CustomNameVisible:0b,Health:20f,CustomName:'{"text":"平穏な地を荒らすもの","color":"dark_red","bold":true,"italic":false}',Attributes:[{Name:generic.max_health,Base:20}]}],ActiveEffects:[{Id:14b,Amplifier:0b,Duration:2000000,ShowParticles:0b},{Id:20b,Amplifier:0b,Duration:2000000,ShowParticles:0b}],Attributes:[{Name:generic.max_health,Base:50}]}],Attributes:[{Name:generic.max_health,Base:0}]}} replace
+平穏な地を荒らすもの
+
