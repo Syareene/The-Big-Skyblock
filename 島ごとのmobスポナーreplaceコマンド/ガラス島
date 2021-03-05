@@ -1,2 +1,3 @@
 ガラスの幽霊
 /setblock ~ ~ ~ spawner{SpawnCount:3,SpawnRange:10,Delay:300,MinSpawnDelay:200,MaxSpawnDelay:300,MaxNearbyEntities:5,RequiredPlayerRange:20,SpawnData:{id:"minecraft:villager",Silent:1b,Health:0f,Passengers:[{id:"minecraft:creeper",CustomNameVisible:0b,Health:5f,powered:1b,ExplosionRadius:0b,ActiveEffects:[{Id:14b,Amplifier:0b,Duration:2000000,ShowParticles:0b}],Attributes:[{Name:generic.follow_range,Base:5}]}],Attributes:[{Name:generic.max_health,Base:0}]}} replace
+フォローラン時になってるのでマックスヘルスに変える
