@@ -1,0 +1,2 @@
+/setblock ~ ~ ~ spawner{SpawnData:{id:"minecraft:villager",Health:0f,Passengers:[{id:"minecraft:cave_spider"}],Attributes:[{Name:generic.max_health,Base:0}]}} replace
+普通の洞窟蜘蛛を村人召喚させて明るいところでもsummon
