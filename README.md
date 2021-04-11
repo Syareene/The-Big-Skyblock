@@ -23,3 +23,5 @@
 
 公式discordサーバー:https://discord.gg/b2TDRXGkfR 
 ここではアップデート情報や意見等を募集しております。単に雑談目的での参加も可能です。参加してくれると喜びます！！
+
+TIPS:現在はmore mining datapackに力を入れているから公開予定はわからないよ！ごめんね！
